@@ -1,0 +1,4 @@
+name: Ajax Example
+description: User Name or Email  Ajax Validation
+core: 8.x
+type: module
